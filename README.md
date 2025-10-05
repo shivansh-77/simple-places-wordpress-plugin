@@ -1,6 +1,6 @@
 # 🗺️ Simple Places – WordPress Plugin
 
-A minimal WordPress plugin built by **Shruti Sharma**, showing real engineering fundamentals — not just code snippets.
+A minimal WordPress plugin built by **Shivansh Bajpai**, showing real engineering fundamentals — not just code snippets.
 
 > Adds a custom post type **"Place"** with Latitude & Longitude fields, and a shortcode `[simple_places]` that lists them beautifully.
 
@@ -88,5 +88,5 @@ simple-places/
 └── assets/
     └── screenshots/
 🧑‍💻 Author
-Shruti Sharma
+Shivansh Bajpai
 Built with ❤️ using PHP, WordPress, and a lot of curiosity.
