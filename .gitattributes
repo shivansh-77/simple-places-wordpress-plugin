@@ -1,0 +1,7 @@
+cat > .gitattributes << "EOF"
+/tests export-ignore
+/.github export-ignore
+/.gitignore export-ignore
+/.gitattributes export-ignore
+/LICENSE export-ignore
+EOF
